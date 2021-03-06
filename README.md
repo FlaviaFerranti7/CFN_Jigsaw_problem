@@ -2,8 +2,8 @@
 ## Description
 Here it's possible to find the creation of a convolutional neural network trained to solve Jigsaw puzzles as a pretext task (with no manual labeling) and then later repurposed to solve object classification. Realized for the Sapienza's course of Neural Networks
 
-<img src = "https://github.com/FlaviaFerranti7/CFN_Jigsaw_problem/blob/master/before.png" width="60%" height="60%">
-<img src = "https://github.com/FlaviaFerranti7/CFN_Jigsaw_problem/blob/master/after.png" width="70%" height="60%">
+<img src = "https://github.com/FlaviaFerranti7/CFN_Jigsaw_problem/blob/master/before.png" width="40%" height="40%">
+<img src = "https://github.com/FlaviaFerranti7/CFN_Jigsaw_problem/blob/master/after.png" width="50%" height="40%">
 
 The realization of this work was done using python libraries such as tensoflow, keras and numpy.
 
